@@ -1,7 +1,7 @@
 ### Olá mundo, eu sou o Italo Otavio 👋
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5513991484998?text=Ol%C3%A1%2C%20Italo%2C%20como%20vai%3F)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://wa.me/5513991484998?text=Ol%C3%A1%2C%20Italo%2C%20como%20vai%3F](https://www.instagram.com/italoo.am/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/italoo.am/))
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%ADtalo-ot%C3%A1vio-60674930b/)
 
 ![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloOtavio&show_icons=true&theme=dark)
