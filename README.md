@@ -4,8 +4,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/italoo.am/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%ADtalo-ot%C3%A1vio-60674930b/)
 
-![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloOtavio&show_icons=true&theme=dark)
-
 ### Tecnologias que eu uso no meu dia💻
 
 <div style="display: inline_block"><br>
